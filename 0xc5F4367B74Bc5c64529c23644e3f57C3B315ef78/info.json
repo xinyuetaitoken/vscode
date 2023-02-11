@@ -1,0 +1,11 @@
+{
+ "name": "XYT Token",
+ "website": "https://stelia.finance",
+ "description": "$XYT was born so that people can earn money through games to exchange for more goods.",
+ "explorer": "https://bscscan.com/token/0xd993D836Eb3Be81060d7AF4A1a53eB187e9fAe5a",
+ "type": "BEP20",
+ "symbol": "XYT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd993D836Eb3Be81060d7AF4A1a53eB187e9fAe5a"
+}
